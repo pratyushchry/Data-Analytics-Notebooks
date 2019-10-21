@@ -6,3 +6,5 @@ These notebooks won't be State of the Art implementations of Machine Learning. T
 This is the foundation of Data Science, accounts for a large portion of commercial applications and is fundamental for understanding the Data Science workflow. 
 
 Now that we have set our expectations, let's head to the [first notebook](https://colab.research.google.com/drive/1-HdkDkIrMxCO-PLIcE17FKrk-CMT2uT5#scrollTo=ZYwzmKOzGKCK) to explore how we can use basic Python libraries in an E-Commerce context to derive some actionable insights. 
+
+The [second notebook](https://github.com/pratyushchry/Data-Analytics-Notebooks/blob/master/Tensorflow_2_0_An_introduction.ipynb) in the series illustrates the capabilities of Tensorflow 2.0 and can be seen as a crash course. 
